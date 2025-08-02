@@ -22,7 +22,7 @@
     <div class="content">
       <h3>EXPRESS HOME DELIVERY</h3>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-        Velit nulla optio autem enim distinctio cupiditate.</p>
+        Velit nulla optio autem enim distinctio cupiditate. Lorem İpsum Dolor Sit, amet</p>
       <a href="#" class="btn">Order Now</a>
     </div>
   </section>
